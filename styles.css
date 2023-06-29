@@ -1,0 +1,85 @@
+
+
+
+html{
+    background-color: #202124 ;
+}
+h1{
+    font-size:80px;
+    font-family: sans-serif;
+    color: #f1f3f4;
+    margin:10px;
+    margin-top: 50px;
+    font-weight: 525;
+}
+h2{
+    color: #f1f3f4;
+    margin:1px;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+div{
+    text-align: center;
+}
+#textinput {
+    width:600px;
+    height:35px;
+    border-radius: 15px; 
+    margin: 20px;
+    background-color: #202124;
+    border:2px solid #5f6368;
+    color: white;
+}
+#textinput:hover{
+    background-color: #5f6368;
+}
+.searchbutton{
+    height:35px;
+    width: 200px;
+    border-radius: 15px;
+    background-color: #bdc1c6;
+    border: 1px solid black;
+}
+.searchbutton:hover{
+    border-color: white;
+}
+ul{
+    text-align: right;
+    list-style-type: none;
+}
+input{
+    text-align: center;
+}
+#advancedtitle{
+    font-size: 20px;
+    color: white;
+    font-family: sans-serif;
+}
+#advancedsearch{
+    color:#f28b82;
+    text-align: left;
+    margin-top: 70px;
+    margin-left: 30px;
+}
+#advancedinput{
+    text-align: left;
+    color: white;
+    margin-left: 30px;
+    
+}
+#advancedsearchbutton{
+    background-color: #4d90fe;
+    width: 200px;
+    height: 40px;
+    margin-top: 30px;
+    border-radius: 15px;
+}
+#advancedsearchbutton:hover{
+    background-color: #8ab4f8;
+}
+.adsearch{
+    margin-left: 20px;
+    border-radius: 15px;
+    height: 20px;
+    width:250px;
+}
